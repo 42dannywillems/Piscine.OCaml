@@ -1,0 +1,3 @@
+[submodule "Piscine.OCaml.d00"]
+	path = Piscine.OCaml.d00
+	url = git@github.com:42dannywillems/Piscine.OCaml.d00.git

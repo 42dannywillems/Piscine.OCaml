@@ -1,3 +1,30 @@
 [submodule "Piscine.OCaml.d00"]
 	path = Piscine.OCaml.d00
 	url = git@github.com:42dannywillems/Piscine.OCaml.d00.git
+[submodule "Piscine.OCaml.d01"]
+	path = Piscine.OCaml.d01
+	url = git@github.com:42dannywillems/Piscine.OCaml.d01.git
+[submodule "Piscine.OCaml.d02"]
+	path = Piscine.OCaml.d02
+	url = git@github.com:42dannywillems/Piscine.OCaml.d02.git
+[submodule "Piscine.OCaml.d03"]
+	path = Piscine.OCaml.d03
+	url = git@github.com:42dannywillems/Piscine.OCaml.d03.git
+[submodule "Piscine.OCaml.d04"]
+	path = Piscine.OCaml.d04
+	url = git@github.com:42dannywillems/Piscine.OCaml.d04.git
+[submodule "Piscine.OCaml.d05"]
+	path = Piscine.OCaml.d05
+	url = git@github.com:42dannywillems/Piscine.OCaml.d05.git
+[submodule "Piscine.OCaml.d06"]
+	path = Piscine.OCaml.d06
+	url = git@github.com:42dannywillems/Piscine.OCaml.d06.git
+[submodule "Piscine.OCaml.d07"]
+	path = Piscine.OCaml.d07
+	url = git@github.com:42dannywillems/Piscine.OCaml.d07.git
+[submodule "Piscine.OCaml.d08"]
+	path = Piscine.OCaml.d08
+	url = git@github.com:42dannywillems/Piscine.OCaml.d08.git
+[submodule "Piscine.OCaml.d09"]
+	path = Piscine.OCaml.d09
+	url = git@github.com:42dannywillems/Piscine.OCaml.d09.git
